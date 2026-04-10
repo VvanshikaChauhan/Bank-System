@@ -17,8 +17,8 @@ How to Use:
 1. Run project.py in your terminal
 2. Choose between Admin or User login
     * Admin Login Credentials:
-        Username: admin
-        Password: admin123
+        ACN: 0
+        Password: Admin
     * User Login:
         Use account number (ACN) and password generated during account creation
 3. Create a new account using admin access, then log in as a user
